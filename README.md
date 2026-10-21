@@ -126,8 +126,8 @@ flowchart TD
 **1. Clone your repository** — replace the placeholders with your GitHub username and repository name.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/DevForgeCore/Self-Healing-Cloud-Infrastructure.git
+cd Self-Healing-Cloud-Infrastructure
 ```
 
 **2. Build and start**
