@@ -221,7 +221,7 @@ README.md
 
 ## Contributing & License
 
-Suggestions are welcome—open an issue to discuss a substantial change before submitting a pull request. No license is specified here; add a `LICENSE` file and update this section if you want to define reuse and distribution permissions.
+Suggestions are welcome open an issue to discuss a substantial change before submitting a pull request. No license is specified here; add a `LICENSE` file and update this section if you want to define reuse and distribution permissions.
 
 ---
 
